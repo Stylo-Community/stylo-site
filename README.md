@@ -1,7 +1,5 @@
 # Stylo Community (React + Vite + Tailwind)
 
-Este projeto é a versão **organizada** do layout que veio em HTML (Stitch).
-
 ## Estrutura
 
 - `src/layouts/RootLayout.jsx`: layout global (Navbar + Footer + Outlet)
